@@ -5,9 +5,6 @@
     <a href="https://www.linkedin.com/in/binaya-dhungana-063802111/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-<!--     <a href="https://www.twitter.com/yasin_elhadi">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Youtube Badge"/><br />
-    </a> -->
   <img src="https://komarev.com/ghpvc/?username=Binayad&color=blueviolet" alt="/">
   </div>
   <h1>
@@ -22,7 +19,7 @@
 
 ### :man_technologist: About Me :
 I am a QA Automation Engineer.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-alhadi/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/binaya-dhungana-063802111/)
 
 <br> 
 
